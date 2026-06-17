@@ -1,4 +1,4 @@
-# Olá, eu sou [Rafael Oliveira] 👋
+# Olá, eu sou **Rafael Oliveira** 👋
 
 ### 📊 Tecnólogo em Análise e Desenvolvimento de Sistemas | Aspirante a Analista de Dados
 
