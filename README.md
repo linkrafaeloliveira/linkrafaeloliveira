@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou [Rafael Oliveira] 👋
 
-<!--
-**linkrafaeloliveira/linkrafaeloliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Tecnólogo em Análise e Desenvolvimento de Sistemas | Aspirante a Analista de Dados
 
-Here are some ideas to get you started:
+Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente direciono minha carreira para a área de **Análise de Dados (Data Analytics)**. Combino minha sólida base em lógica de programação e infraestrutura de sistemas para extrair insights estratégicos que apoiam tomadas de decisão de negócio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+🛠️ **Banco de Dados & SQL:** PostgreSQL | DBeaver  
+📈 **Próximos Passos:** Python (Pandas/NumPy) | Power BI / Looker Studio | Excel Avançado
+
+---
+
+### 🚀 Meus Projetos em Destaque
+* 📂 **[Jornada SQL - Análise de Dados](https://github.com/seu-usuario/jornada-sql-analise-dados):** Meu laboratório diário de queries estruturadas, filtros avançados, agregações (GROUP BY) e resolução de problemas de negócio com PostgreSQL.
+
+---
+
+### 📫 Vamos nos conectar?
+💼 **[Meu LinkedIn](www.linkedin.com/in/linkrafaeloliveira)**
