@@ -6,10 +6,25 @@ Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente direciono mi
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
-🛠️ **Banco de Dados & SQL:** PostgreSQL | DBeaver  
+### 🛠️ Tecnologias e Ferramentas (My Stack)
+
+Aqui estão as tecnologias que utilizo e aprimoro diariamente:
+
+![SQL](https://img.shields.io/badge/SQL-0064a5?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
 📈 **Próximos Passos:** Python (Pandas/NumPy) | Power BI / Looker Studio | Excel Avançado
 
+---
+
+### 🚀 Em Desenvolvimento (O que estou estudando agora)
+
+Para expandir meu leque técnico e entregar análises ainda mais visuais e preditivas, estou atualmente focado em:
+
+* 🛢️ **SQL Avançado:** Joins complexos, subqueries e otimização de consultas (PostgreSQL).
+* 📈 **Business Intelligence:** Engenharia de painéis e dashboards dinâmicos com **Power BI** e **Looker Studio**.
+* 🐍 **Programação para Dados:** Manipulação e automação de relatórios utilizando **Python (Pandas e NumPy)**.
 ---
 
 ### 🚀 Meus Projetos em Destaque
