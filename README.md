@@ -28,7 +28,7 @@ Para expandir meu leque técnico e entregar análises ainda mais visuais e predi
 ---
 
 ### 🚀 Meus Projetos em Destaque
-* 📂 **[Jornada SQL - Análise de Dados](https://github.com/seu-usuario/jornada-sql-analise-dados):** Meu laboratório diário de queries estruturadas, filtros avançados, agregações (GROUP BY) e resolução de problemas de negócio com PostgreSQL.
+* 📂 **[Jornada SQL - Análise de Dados](https://github.com/linkrafaeloliveira/jornada-sql-analise-dados):** Meu laboratório diário de queries estruturadas, filtros avançados, agregações (GROUP BY) e resolução de problemas de negócio com PostgreSQL.
 
 ---
 
